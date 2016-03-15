@@ -1,4 +1,4 @@
-# New Snape Start_Page
+# Develepment for static Pages
 
 ## Bootstrap4
 
@@ -30,7 +30,6 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```
-git clone git@github.com:AndreEtienne/snape_front_page.git
 npm install && bower install
 ```
 

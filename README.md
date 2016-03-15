@@ -1,5 +1,8 @@
-# Develepment for static Pages
+# Develepment for static Pages 
 
+
+## Grunt
+## Bower
 ## Bootstrap4
 
 ## Install Dependencies
